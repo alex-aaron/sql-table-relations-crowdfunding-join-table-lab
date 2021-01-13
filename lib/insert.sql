@@ -9,23 +9,23 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (9, "Not the Other Thing", "Movie", 15000, "January 3, 2021", "February 3, 2021");
 INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES (10, "The Fever", "Movie", 10000, "January 15, 2021", "February 15, 2021");
 
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
-INSERT INTO users (name, age) VALUES ("Stephanie Cox", 33)
-INSERT INTO users (name, age) VALUES ("Ben Matheny", 30)
-INSERT INTO users (name, age) VALUES ("Bethany Jones", 31)
-INSERT INTO users (name, age) VALUES ("Kyle Aaron", 37)
-INSERT INTO users (name, age) VALUES ("Stanley Aaron", 41)
-INSERT INTO users (name, age) VALUES ("Stanley Aaron, Sr.", 65)
-INSERT INTO users (name, age) VALUES ("Will Addison", 28)
-INSERT INTO users (name, age) VALUES ("David Leblanc", 35)
-INSERT INTO users (name, age) VALUES ("Sean Price", 33)
-INSERT INTO users (name, age) VALUES ("Vickie Aaron", 65)
-INSERT INTO users (name, age) VALUES ("Lee Garcia", 28)
-INSERT INTO users (name, age) VALUES ("John Ryan", 32)
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
-INSERT INTO users (name, age) VALUES ("Alex Aaron", 33)
+INSERT INTO users (name, age) VALUES ("Alex Aaron", 33);
+INSERT INTO users (name, age) VALUES ("Stephanie Cox", 33);
+INSERT INTO users (name, age) VALUES ("Ben Matheny", 30);
+INSERT INTO users (name, age) VALUES ("Bethany Jones", 31);
+INSERT INTO users (name, age) VALUES ("Kyle Aaron", 37);
+INSERT INTO users (name, age) VALUES ("Stanley Aaron", 41);
+INSERT INTO users (name, age) VALUES ("Stanley Aaron, Sr.", 65);
+INSERT INTO users (name, age) VALUES ("Will Addison", 28);
+INSERT INTO users (name, age) VALUES ("David Leblanc", 35);
+INSERT INTO users (name, age) VALUES ("Sean Price", 33);
+INSERT INTO users (name, age) VALUES ("Vickie Aaron", 65);
+INSERT INTO users (name, age) VALUES ("Lee Garcia", 28);
+INSERT INTO users (name, age) VALUES ("John Ryan", 32);
+INSERT INTO users (name, age) VALUES ("Beal Locke", 27);
+INSERT INTO users (name, age) VALUES ("Sean Mahoney", 32);
+INSERT INTO users (name, age) VALUES ("Kat Donahoe", 35);
+INSERT INTO users (name, age) VALUES ("Buena Baptiste", 38);
+INSERT INTO users (name, age) VALUES ("Nathan Cooper", 31);
+INSERT INTO users (name, age) VALUES ("Desi Richter", 52);
+INSERT INTO users (name, age) VALUES ("Jonathan Perry", 26);
